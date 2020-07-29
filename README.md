@@ -18,8 +18,8 @@ This application uses MySQL and Entity to create a webpage that allows the user 
 * **Output Example:** /Cuisines/Create
 
 3. **Behavior:** If the user navigates to "Add a Cuisine" the program will allow the user to add a new Cuisine and then be directed to Cuisines.
-* **Input Example:** "Add new Cusine"
-* **Output Example:** /Cusines
+* **Input Example:** "Add new Cuisine"
+* **Output Example:** /Cuisines
 
 4. **Behavior:** The program will allow the user to click on a Cuisine.
 * **Input Example:** "Italian"
